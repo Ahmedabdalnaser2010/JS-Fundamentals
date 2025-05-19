@@ -4,7 +4,7 @@ if (isNaN(firstArgu)) {
     console.log("Missing size")
 } else {
     for (let i = 0; i < firstArgu; i++) {
-        console.log("x".repeat(firstArgu))
+        console.log("X".repeat(firstArgu))
     }
 }
 
